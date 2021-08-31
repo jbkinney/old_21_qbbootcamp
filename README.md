@@ -22,7 +22,7 @@ Students are asked to install the Anaconda distribution of Python 3.8, on their 
 
 To download bnb_exercise.tar.gz to BNB, execute:
 
-```wget --no-check-certificate "https://github.com/jbkinney/21_qbbootcamp/raw/master/bnb_exercise.tar.gz"```
+```wget --no-check-certificate "https://github.com/jbkinney/21_qbbootcamp/raw/main/bnb_exercise.tar.gz"```
 
 Then to unpack, execute:
 
