@@ -1,3 +1,4 @@
 .ipyn_checkpoints/
 .pyc
 nbconvert/
+.DS_Store
