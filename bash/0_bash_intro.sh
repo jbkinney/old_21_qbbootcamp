@@ -30,7 +30,7 @@ pwd
 ls
 
 # Change to QB Bootcamp directory
-cd ~/Desktop/19_qbbootcamp-master
+cd ~/Desktop/21_qbbootcamp
 pwd
 
 # Delete a directory
